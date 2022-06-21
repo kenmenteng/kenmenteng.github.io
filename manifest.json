@@ -1,0 +1,27 @@
+{
+  "name": "Trissa App v1.3.2",
+  "short_name": "Trissa App",
+  "description": "Trissa Application",
+  "icons": [
+    {
+      "src": "media/favicon/android-icon-192x192.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any"
+    },
+    {
+      "src": "media/img/logo.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    },{
+      "src": "media/favicon/maskable_icon_x192.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "maskable"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#189a95",
+  "background_color": "#ffffff"
+}
